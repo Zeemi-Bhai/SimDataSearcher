@@ -24,7 +24,7 @@ This Tool is python based so you will be requiring python to run it- as well as 
 ```bash
   pkg upgrade && pkg update
   pkg install python
-  pkg install python 3
+  pkg install python3
 
 ```
 or 
