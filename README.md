@@ -14,7 +14,7 @@ Sim Data Searcher is a project by AnonCyberWarrior (ZeemiBhai), which search Pak
 
 ## Screenshots
 
-![Tool ScreenShot](https://github.com/Zeemi-Bhai/SimDataSearcher/blob/main/files/simdata.PNG?raw=true)
+![Tool ScreenShot](https://github.com/Zeemi-Bhai/SimDataSearcher/blob/main/simdata.PNG?raw=true)
 
 
 ## Installation
