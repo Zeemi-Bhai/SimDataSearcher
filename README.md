@@ -49,6 +49,9 @@ After installing Python install these libraries.
 ```bash
   pip install beautifulsoup4
 ```
+```bash
+  pip install pyarmor
+```
 Here how to use the tool:
 
 ```bash
