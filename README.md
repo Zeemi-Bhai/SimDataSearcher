@@ -26,11 +26,11 @@ This Tool is python based so you will be requiring python to run it- as well as 
 
 ```
 ```bash
-  pkg install python
+  pkg install python3
 
 ```
 ```bash
-  pkg install python3
+  pkg install git
 
 ```
 or 
@@ -40,18 +40,17 @@ or
 ```bash
   apt install python
 ```
+```bash
+  apt install git
+```
 
 After installing Python install these libraries.
 
 ```bash
-  pip install requests
+  pip install requests beautifulsoup4 pyarmor
 ```
-```bash
-  pip install beautifulsoup4
-```
-```bash
-  pip install pyarmor
-```
+## Usage
+
 Here how to use the tool:
 
 ```bash
