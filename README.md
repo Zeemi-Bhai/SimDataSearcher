@@ -23,25 +23,46 @@ This Tool is python based so you will be requiring python to run it- as well as 
 
 ```bash
   pkg upgrade && pkg update
+
+```
+```bash
   pkg install python
+
+```
+```bash
   pkg install python3
 
 ```
 or 
 ```bash
   apt-get update && apt-get upgrade
+```
+```bash
   apt install python
 ```
 
-
-
-After Installing python install these libraries.
+After installing Python install these libraries.
 
 ```bash
   pip install requests
+```
+```bash
   pip install beautifulsoup4
 ```
-    
+Here how to use the tool:
+
+```bash
+  cd SimDataSearcher
+```
+
+```bash
+  python tool.py
+```
+or
+
+ ```bash
+  python3 tool.py
+```   
 
 ## 🚀 About Me
 😁MySelf Abdul Azeem ( ZeemiBhai ). I am a python developer with Cyber Security SKills.
