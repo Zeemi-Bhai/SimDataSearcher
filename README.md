@@ -49,6 +49,9 @@ After installing Python install these libraries.
 ```bash
   pip install requests beautifulsoup4 pyarmor
 ```
+
+Now Clone tool!
+
 ```bash
   git clone https://github.com/Zeemi-Bhai/SimDataSearcher
 ```
